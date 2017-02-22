@@ -1,0 +1,4 @@
+D:\开发测试\King.Framework\King.Framework\King.Framework.WebTools\bin\Debug\King.Framework.WebTools.dll
+D:\开发测试\King.Framework\King.Framework\King.Framework.WebTools\bin\Debug\King.Framework.WebTools.pdb
+D:\开发测试\King.Framework\King.Framework\King.Framework.WebTools\obj\Debug\King.Framework.WebTools.dll
+D:\开发测试\King.Framework\King.Framework\King.Framework.WebTools\obj\Debug\King.Framework.WebTools.pdb

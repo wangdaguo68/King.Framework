@@ -1,0 +1,16 @@
+D:\开发测试\King.Framework\King.Framework\King.Framework.Ioc\bin\Debug\King.Framework.Ioc.dll
+D:\开发测试\King.Framework\King.Framework\King.Framework.Ioc\bin\Debug\King.Framework.Ioc.pdb
+D:\开发测试\King.Framework\King.Framework\King.Framework.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\开发测试\King.Framework\King.Framework\King.Framework.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\开发测试\King.Framework\King.Framework\King.Framework.Ioc\bin\Debug\Microsoft.Practices.Unity.dll
+D:\开发测试\King.Framework\King.Framework\King.Framework.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\开发测试\King.Framework\King.Framework\King.Framework.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\开发测试\King.Framework\King.Framework\King.Framework.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\开发测试\King.Framework\King.Framework\King.Framework.Ioc\bin\Debug\Microsoft.Practices.Unity.xml
+D:\开发测试\King.Framework\King.Framework\King.Framework.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\开发测试\King.Framework\King.Framework\King.Framework.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\开发测试\King.Framework\King.Framework\King.Framework.Ioc\obj\Debug\King.Framework.Ioc.dll
+D:\开发测试\King.Framework\King.Framework\King.Framework.Ioc\obj\Debug\King.Framework.Ioc.pdb
+D:\开发测试\King.Framework\King.Framework\King.Framework.Ioc\bin\Debug\System.Web.Razor.dll
+D:\开发测试\King.Framework\King.Framework\King.Framework.Ioc\bin\Debug\System.Web.Razor.xml
+D:\开发测试\King.Framework\King.Framework\King.Framework.Ioc\obj\Debug\King.Framework.Ioc.csprojResolveAssemblyReference.cache

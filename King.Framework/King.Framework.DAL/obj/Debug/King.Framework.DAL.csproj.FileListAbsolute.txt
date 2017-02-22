@@ -1,0 +1,5 @@
+D:\开发测试\King.Framework\King.Framework\King.Framework.DAL\bin\Debug\King.Framework.DAL.dll
+D:\开发测试\King.Framework\King.Framework\King.Framework.DAL\bin\Debug\King.Framework.DAL.pdb
+D:\开发测试\King.Framework\King.Framework\King.Framework.DAL\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\开发测试\King.Framework\King.Framework\King.Framework.DAL\obj\Debug\King.Framework.DAL.dll
+D:\开发测试\King.Framework\King.Framework\King.Framework.DAL\obj\Debug\King.Framework.DAL.pdb

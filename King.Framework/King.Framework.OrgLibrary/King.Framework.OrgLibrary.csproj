@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6877D709-1554-4334-AC5C-6736017282C1}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>King.Framework.OrgLibrary</RootNamespace>
+    <AssemblyName>King.Framework.OrgLibrary</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="OrgProxyFactory.cs" />
+    <Compile Include="OrgProxyNew.cs" />
+    <Compile Include="OrgProxyTest.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\King.Framework.Common\King.Framework.Common.csproj">
+      <Project>{1db79b3e-ba18-4958-b206-7ea086780496}</Project>
+      <Name>King.Framework.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\King.Framework.EntityLibrary\King.Framework.EntityLibrary.csproj">
+      <Project>{5e9146f4-d1fb-4f39-8bec-f3cfa0c7dc08}</Project>
+      <Name>King.Framework.EntityLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\King.Framework.Interfaces\King.Framework.Interfaces.csproj">
+      <Project>{8d9efc97-c8b0-4db7-9ee3-8d9351341f8a}</Project>
+      <Name>King.Framework.Interfaces</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\King.Framework.Ioc\King.Framework.Ioc.csproj">
+      <Project>{af379497-783a-4945-852c-1f8483a165e2}</Project>
+      <Name>King.Framework.Ioc</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\King.Framework.Linq\King.Framework.Linq.csproj">
+      <Project>{0e015a9d-7e62-4a43-b641-91b97a462a6c}</Project>
+      <Name>King.Framework.Linq</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
