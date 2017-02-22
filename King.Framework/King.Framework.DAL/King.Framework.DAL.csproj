@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E03B28A8-316C-4EE2-9F4A-A28C8B01E6AB}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>King.Framework.DAL</RootNamespace>
+    <AssemblyName>King.Framework.DAL</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Oracle.ManagedDataAccess">
+      <HintPath>..\..\DLL\Oracle.ManagedDataAccess.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataAccessLib\BaseDataAccess.cs" />
+    <Compile Include="Column.cs" />
+    <Compile Include="ColumnWrapper.cs" />
+    <Compile Include="CSharpTypes\BoolNullableType.cs" />
+    <Compile Include="CSharpTypes\BoolType.cs" />
+    <Compile Include="CSharpTypes\ByteArrayType.cs" />
+    <Compile Include="CSharpTypes\ByteNullableType.cs" />
+    <Compile Include="CSharpTypes\ByteType.cs" />
+    <Compile Include="CSharpTypes\DateTimeNullableType.cs" />
+    <Compile Include="CSharpTypes\DateTimeType.cs" />
+    <Compile Include="CSharpTypes\DecimalNullableType.cs" />
+    <Compile Include="CSharpTypes\DecimalType.cs" />
+    <Compile Include="CSharpTypes\DoubleNullableType.cs" />
+    <Compile Include="CSharpTypes\DoubleType.cs" />
+    <Compile Include="CSharpTypes\EnumNullableType.cs" />
+    <Compile Include="CSharpTypes\EnumType.cs" />
+    <Compile Include="CSharpTypes\GuidNullableType.cs" />
+    <Compile Include="CSharpTypes\GuidType.cs" />
+    <Compile Include="CSharpTypes\IntNullableType.cs" />
+    <Compile Include="CSharpTypes\IntType.cs" />
+    <Compile Include="CSharpTypes\ISharpType.cs" />
+    <Compile Include="CSharpTypes\LongNullableType.cs" />
+    <Compile Include="CSharpTypes\LongType.cs" />
+    <Compile Include="CSharpTypes\ShortNullableType.cs" />
+    <Compile Include="CSharpTypes\ShortType.cs" />
+    <Compile Include="CSharpTypes\StringType.cs" />
+    <Compile Include="InternalColumnWrapper.cs" />
+    <Compile Include="KingColumnAttribute.cs" />
+    <Compile Include="KingOracleDbType.cs" />
+    <Compile Include="KingRefAttribute.cs" />
+    <Compile Include="KingReferenceAttribute.cs" />
+    <Compile Include="KingTableAttribute.cs" />
+    <Compile Include="KingTableVersionAttribute.cs" />
+    <Compile Include="DataAccessLib\OracleDataAccess.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="KingCollectionAttribute.cs" />
+    <Compile Include="SharpTypeHelper.cs" />
+    <Compile Include="DataAccessLib\SqlDataAccess.cs" />
+    <Compile Include="Table.cs" />
+    <Compile Include="TableCache.cs" />
+    <Compile Include="TableData.cs" />
+    <Compile Include="TableDeserializer.cs" />
+    <Compile Include="TableSerializer.cs" />
+    <Compile Include="TypeSystem.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

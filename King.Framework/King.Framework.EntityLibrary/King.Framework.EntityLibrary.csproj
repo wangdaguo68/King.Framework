@@ -1,0 +1,338 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5E9146F4-D1FB-4F39-8BEC-F3CFA0C7DC08}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>King.Framework.EntityLibrary</RootNamespace>
+    <AssemblyName>King.Framework.EntityLibrary</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ActivityExecType.cs" />
+    <Compile Include="ActivityOperationTypeEnum.cs" />
+    <Compile Include="ActivityPassType.cs" />
+    <Compile Include="ActivityRemindUseTimeType.cs" />
+    <Compile Include="ActivityStepExpressionTypeEnum.cs" />
+    <Compile Include="ActivityType.cs" />
+    <Compile Include="ApproveHistoryDisplayMode.cs" />
+    <Compile Include="ApproveResultEnum.cs" />
+    <Compile Include="BaseQueryModel.cs" />
+    <Compile Include="CacheContext.cs" />
+    <Compile Include="CacheItem!1.cs" />
+    <Compile Include="CascadeDeleteFlagEnum.cs" />
+    <Compile Include="Configuration_StateEnum.cs" />
+    <Compile Include="ControlType.cs" />
+    <Compile Include="DataTypeEnum.cs" />
+    <Compile Include="DataTypeExtend.cs" />
+    <Compile Include="DBType.cs" />
+    <Compile Include="DefaultFlagEnum.cs" />
+    <Compile Include="DeleteFlagEnum.cs" />
+    <Compile Include="Department_StateEnum.cs" />
+    <Compile Include="DExpressionType.cs" />
+    <Compile Include="DisplayControlTypeEnum.cs" />
+    <Compile Include="EffectiveFlagEnum.cs" />
+    <Compile Include="EfSequence.cs" />
+    <Compile Include="EmailStatusEnum.cs" />
+    <Compile Include="EmailTypeEnum.cs" />
+    <Compile Include="EntityCacheBase.cs" />
+    <Compile Include="Entity_Trace_Plan_ExecuteTypeEnum.cs" />
+    <Compile Include="Extend.cs" />
+    <Compile Include="FieldDisplayAign.cs" />
+    <Compile Include="FlowStepDirection.cs" />
+    <Compile Include="ForbiddenMobileFlagEmum.cs" />
+    <Compile Include="ForbiddenWebFlagEmum.cs" />
+    <Compile Include="FormFieldDataType.cs" />
+    <Compile Include="FormFieldDisplayType.cs" />
+    <Compile Include="FormFieldPrivilege.cs" />
+    <Compile Include="FormInstanceState.cs" />
+    <Compile Include="FormProcessActivityRejectType.cs" />
+    <Compile Include="FormState.cs" />
+    <Compile Include="HeaderAttribute.cs" />
+    <Compile Include="HeaderBoxDisplayMode.cs" />
+    <Compile Include="IApproveUser.cs" />
+    <Compile Include="ICachedEntity.cs" />
+    <Compile Include="IIdObject.cs" />
+    <Compile Include="IKeyObject.cs" />
+    <Compile Include="INamedObject.cs" />
+    <Compile Include="InternalMailReceiverState.cs" />
+    <Compile Include="InternalMailSenderState.cs" />
+    <Compile Include="InternalMetaDataContext.cs" />
+    <Compile Include="LogTypeEnum.cs" />
+    <Compile Include="MessageApproveUser.cs" />
+    <Compile Include="MobileTemplateEnum.cs" />
+    <Compile Include="NamedObject.cs" />
+    <Compile Include="NamedTreeObject.cs" />
+    <Compile Include="OperationBarClass.cs" />
+    <Compile Include="OperationInfluenceType.cs" />
+    <Compile Include="OperationType.cs" />
+    <Compile Include="OrderMethodEnum.cs" />
+    <Compile Include="PageParameterTypeEnum.cs" />
+    <Compile Include="PageType.cs" />
+    <Compile Include="ParaMeterSetValueType.cs" />
+    <Compile Include="ParticipantFunctionType.cs" />
+    <Compile Include="PathRuleMasterType.cs" />
+    <Compile Include="PathRuleObjects.cs" />
+    <Compile Include="PathRuleTypes.cs" />
+    <Compile Include="PathRuleVerb.cs" />
+    <Compile Include="PlatFormEntity.cs" />
+    <Compile Include="PrivilegeModel.cs" />
+    <Compile Include="ProcessCategory.cs" />
+    <Compile Include="ProcessRemindUseTimeType.cs" />
+    <Compile Include="ProcessState.cs" />
+    <Compile Include="ProcessTemplateKeyWordType.cs" />
+    <Compile Include="ProcessTemplateResultType.cs" />
+    <Compile Include="ProcessTemplateType.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ProxyStatus.cs" />
+    <Compile Include="RemindStausEnum.cs" />
+    <Compile Include="RepeatType.cs" />
+    <Compile Include="ReportChartTypeEnum.cs" />
+    <Compile Include="ReportCompareTypeEnum.cs" />
+    <Compile Include="ReportFunctionTypeEnum.cs" />
+    <Compile Include="ReportGraphTypeEnum.cs" />
+    <Compile Include="ReportHavingRelationEnum.cs" />
+    <Compile Include="ReportModelEnum.cs" />
+    <Compile Include="ReportSortTypeEnum.cs" />
+    <Compile Include="ReportStateEnum.cs" />
+    <Compile Include="ReportSumTypeEnum.cs" />
+    <Compile Include="RequireLevelEnum.cs" />
+    <Compile Include="ShareStartType.cs" />
+    <Compile Include="ShareType.cs" />
+    <Compile Include="ShowFlagEnum.cs" />
+    <Compile Include="StackPanelOrientation.cs" />
+    <Compile Include="StepDataTypeEnum.cs" />
+    <Compile Include="StopFlagEnum.cs" />
+    <Compile Include="SumType.cs" />
+    <Compile Include="SysAccordion.cs" />
+    <Compile Include="SysActivity.cs" />
+    <Compile Include="SysActivityApproveGroup.cs" />
+    <Compile Include="SysActivityDataSection.cs" />
+    <Compile Include="SysActivityInstance.cs" />
+    <Compile Include="SysActivityInstanceApproveUsers.cs" />
+    <Compile Include="SysActivityOperation.cs" />
+    <Compile Include="SysActivityParticipant.cs" />
+    <Compile Include="SysActivityRemind.cs" />
+    <Compile Include="SysActivityRemindParticipant.cs" />
+    <Compile Include="SysActivityStep.cs" />
+    <Compile Include="SysApproveActivityData.cs" />
+    <Compile Include="SysApproveHistory.cs" />
+    <Compile Include="SysApproveItem.cs" />
+    <Compile Include="SysApproveProcessData.cs" />
+    <Compile Include="SysAttachmentList.cs" />
+    <Compile Include="SysBusinessLogicOperation.cs" />
+    <Compile Include="SysChangeLog.cs" />
+    <Compile Include="SysChangeLogDetail.cs" />
+    <Compile Include="SysCondition.cs" />
+    <Compile Include="SysConditionBox.cs" />
+    <Compile Include="SysDataPrivilege.cs" />
+    <Compile Include="SysDbSchema.cs" />
+    <Compile Include="SysEntity.cs" />
+    <Compile Include="SysEntityCategory.cs" />
+    <Compile Include="SysEntityJoinRelation.cs" />
+    <Compile Include="SysEntitySchema.cs" />
+    <Compile Include="SysEnum.cs" />
+    <Compile Include="SysEnumItem.cs" />
+    <Compile Include="SysExpression.cs" />
+    <Compile Include="SysField.cs" />
+    <Compile Include="SysFieldMultiRef.cs" />
+    <Compile Include="SysForm.cs" />
+    <Compile Include="SysFormField.cs" />
+    <Compile Include="SysFormFieldSection.cs" />
+    <Compile Include="SysFormInstance.cs" />
+    <Compile Include="SysFormPrivilege.cs" />
+    <Compile Include="SysFormRolePrivilege.cs" />
+    <Compile Include="SysFormTab.cs" />
+    <Compile Include="SysFrameControl.cs" />
+    <Compile Include="SysFunction.cs" />
+    <Compile Include="SysHeaderBox.cs" />
+    <Compile Include="SysIdSequence.cs" />
+    <Compile Include="SysInternalMail.cs" />
+    <Compile Include="SysInternalMailAttachment.cs" />
+    <Compile Include="SysInternalMailReceiver.cs" />
+    <Compile Include="SysInternalMailSender.cs" />
+    <Compile Include="SysLog.cs" />
+    <Compile Include="SysMobileApproveComment.cs" />
+    <Compile Include="SysMobileApproveDeal.cs" />
+    <Compile Include="SysMobilePhotoList.cs" />
+    <Compile Include="SysMobileStepEntity.cs" />
+    <Compile Include="SysModule.cs" />
+    <Compile Include="SysMoreMoreRelation.cs" />
+    <Compile Include="SysOneMoreRelation.cs" />
+    <Compile Include="SysOperation.cs" />
+    <Compile Include="SysOperationBar.cs" />
+    <Compile Include="SysOperationConditionRedirect.cs" />
+    <Compile Include="SysOperationLog.cs" />
+    <Compile Include="SysPage.cs" />
+    <Compile Include="SysPageControl.cs" />
+    <Compile Include="SysPageField.cs" />
+    <Compile Include="SysPageName.cs" />
+    <Compile Include="SysPageOperation.cs" />
+    <Compile Include="SysPageParameter.cs" />
+    <Compile Include="SysPageSection.cs" />
+    <Compile Include="SysPageViews.cs" />
+    <Compile Include="SysPageViewsDetail.cs" />
+    <Compile Include="SysParentViewControl.cs" />
+    <Compile Include="SysPatchMatchField.cs" />
+    <Compile Include="SysPath.cs" />
+    <Compile Include="SysPathRule.cs" />
+    <Compile Include="SysPathRuleItem.cs" />
+    <Compile Include="SysProcess.cs" />
+    <Compile Include="SysProcessInstance.cs" />
+    <Compile Include="SysProcessParticipant.cs" />
+    <Compile Include="SysProcessProxy.cs" />
+    <Compile Include="SysProcessRemind.cs" />
+    <Compile Include="SysProcessRemindParticipant.cs" />
+    <Compile Include="SysProcessRemindTemplate.cs" />
+    <Compile Include="SysProcessRemindToken.cs" />
+    <Compile Include="SysQueryCondition.cs" />
+    <Compile Include="SysQueryConditionRelatedField.cs" />
+    <Compile Include="SysRedirectPageParaMeterSet.cs" />
+    <Compile Include="SysRefControlRelatedField.cs" />
+    <Compile Include="SysRemind.cs" />
+    <Compile Include="SysReport.cs" />
+    <Compile Include="SysReportChangeColumn.cs" />
+    <Compile Include="SysReportDisplayField.cs" />
+    <Compile Include="SysReportFixedCondition.cs" />
+    <Compile Include="SysReportGraph.cs" />
+    <Compile Include="SysReportGroupField.cs" />
+    <Compile Include="SysReportHavingField.cs" />
+    <Compile Include="SysReportMenuRole.cs" />
+    <Compile Include="SysReportQueryCondition.cs" />
+    <Compile Include="SysReportQueryField.cs" />
+    <Compile Include="SysReportSortField.cs" />
+    <Compile Include="SysReportSumFiled.cs" />
+    <Compile Include="SysRibbonBar.cs" />
+    <Compile Include="SysRibbonBarItem.cs" />
+    <Compile Include="SysRowOperation.cs" />
+    <Compile Include="SysService.cs" />
+    <Compile Include="SysServiceCall.cs" />
+    <Compile Include="SysServiceCallLog.cs" />
+    <Compile Include="SysServiceCallState.cs" />
+    <Compile Include="SysServicePriority.cs" />
+    <Compile Include="SysServiceState.cs" />
+    <Compile Include="SysServiceType.cs" />
+    <Compile Include="SysSharedPrivilege.cs" />
+    <Compile Include="SysSharedPrivilegeNew.cs" />
+    <Compile Include="SysStackPanel.cs" />
+    <Compile Include="SysSubSystem.cs" />
+    <Compile Include="SysSubSystemEntity.cs" />
+    <Compile Include="SysSubSystemPageDisplayType.cs" />
+    <Compile Include="SysSubSystemPages.cs" />
+    <Compile Include="SysTabPage.cs" />
+    <Compile Include="SysTransition.cs" />
+    <Compile Include="SysTransitionInstance.cs" />
+    <Compile Include="SysTree.cs" />
+    <Compile Include="SysUniqueKey.cs" />
+    <Compile Include="SysUniqueKeyField.cs" />
+    <Compile Include="SysUpdateSQLVersion.cs" />
+    <Compile Include="SysUserControl.cs" />
+    <Compile Include="SysUserToken.cs" />
+    <Compile Include="SysView.cs" />
+    <Compile Include="SysViewCondition.cs" />
+    <Compile Include="SysViewControl.cs" />
+    <Compile Include="SysViewField.cs" />
+    <Compile Include="SysViewList.cs" />
+    <Compile Include="SysViewListItem.cs" />
+    <Compile Include="SysViewOrderField.cs" />
+    <Compile Include="SysViewSumFields.cs" />
+    <Compile Include="SysWorkflowMessage.cs" />
+    <Compile Include="SysWorkflowMessageStateEnum.cs" />
+    <Compile Include="SysWorkItem.cs" />
+    <Compile Include="SysWorkItemApproveGroup.cs" />
+    <Compile Include="TemplateType.cs" />
+    <Compile Include="TreeExpandMethod.cs" />
+    <Compile Include="TreeLoadMethod.cs" />
+    <Compile Include="T_Application_User.cs" />
+    <Compile Include="T_Application_UserStateEnum.cs" />
+    <Compile Include="T_Attachment.cs" />
+    <Compile Include="T_AttachmentList.cs" />
+    <Compile Include="T_AttachmentListStateEnum.cs" />
+    <Compile Include="T_AttachmentStateEnum.cs" />
+    <Compile Include="T_Company.cs" />
+    <Compile Include="T_Configuration.cs" />
+    <Compile Include="T_Configuration_Group.cs" />
+    <Compile Include="T_Department.cs" />
+    <Compile Include="T_Email.cs" />
+    <Compile Include="T_Entity_Trace_Plan.cs" />
+    <Compile Include="T_Role.cs" />
+    <Compile Include="T_RoleStateEnum.cs" />
+    <Compile Include="T_Role_Function.cs" />
+    <Compile Include="T_Time_Plan.cs" />
+    <Compile Include="T_User.cs" />
+    <Compile Include="T_User_Role.cs" />
+    <Compile Include="T_User_RoleStateEnum.cs" />
+    <Compile Include="T_WorkItemBase.cs" />
+    <Compile Include="T_WorkItemBaseStateEnum.cs" />
+    <Compile Include="T_WorkItemType.cs" />
+    <Compile Include="UserControlTypeEnum.cs" />
+    <Compile Include="User_StateEnum.cs" />
+    <Compile Include="UseTimeType.cs" />
+    <Compile Include="ViewControlRelationType.cs" />
+    <Compile Include="ViewDisplayWay.cs" />
+    <Compile Include="WorkflowMessageTypeEnum.cs" />
+    <Compile Include="WorkItemStatus.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\King.Framework.DAL\King.Framework.DAL.csproj">
+      <Project>{e03b28a8-316c-4ee2-9f4a-a28c8b01e6ab}</Project>
+      <Name>King.Framework.DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\King.Framework.Interfaces\King.Framework.Interfaces.csproj">
+      <Project>{8d9efc97-c8b0-4db7-9ee3-8d9351341f8a}</Project>
+      <Name>King.Framework.Interfaces</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\King.Framework.Ioc\King.Framework.Ioc.csproj">
+      <Project>{af379497-783a-4945-852c-1f8483a165e2}</Project>
+      <Name>King.Framework.Ioc</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\King.Framework.Linq\King.Framework.Linq.csproj">
+      <Project>{0e015a9d-7e62-4a43-b641-91b97a462a6c}</Project>
+      <Name>King.Framework.Linq</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\King.Framework.LiteQueryDef\King.Framework.LiteQueryDef.csproj">
+      <Project>{b7e99fd1-ed65-428f-93f1-63ad52f8fd0f}</Project>
+      <Name>King.Framework.LiteQueryDef</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
