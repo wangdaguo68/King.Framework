@@ -1,4 +1,4 @@
-﻿namespace Drision.Framework.WebTools
+﻿namespace King.Framework.WebTools
 {
     using System;
 

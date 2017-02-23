@@ -2,3 +2,4 @@ D:\开发测试\King.Framework\King.Framework\King.Framework.LiteQueryDef\bin\De
 D:\开发测试\King.Framework\King.Framework\King.Framework.LiteQueryDef\bin\Debug\King.Framework.LiteQueryDef.pdb
 D:\开发测试\King.Framework\King.Framework\King.Framework.LiteQueryDef\obj\Debug\King.Framework.LiteQueryDef.dll
 D:\开发测试\King.Framework\King.Framework\King.Framework.LiteQueryDef\obj\Debug\King.Framework.LiteQueryDef.pdb
+D:\开发测试\King.Framework\King.Framework\King.Framework.LiteQueryDef\obj\Debug\King.Framework.LiteQueryDef.csprojResolveAssemblyReference.cache
