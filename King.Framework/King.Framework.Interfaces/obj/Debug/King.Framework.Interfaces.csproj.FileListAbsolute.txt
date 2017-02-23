@@ -2,4 +2,7 @@ D:\开发测试\King.Framework\King.Framework\King.Framework.Interfaces\bin\Debu
 D:\开发测试\King.Framework\King.Framework\King.Framework.Interfaces\bin\Debug\King.Framework.Interfaces.pdb
 D:\开发测试\King.Framework\King.Framework\King.Framework.Interfaces\obj\Debug\King.Framework.Interfaces.dll
 D:\开发测试\King.Framework\King.Framework\King.Framework.Interfaces\obj\Debug\King.Framework.Interfaces.pdb
+<<<<<<< HEAD
 D:\开发测试\King.Framework\King.Framework\King.Framework.Interfaces\obj\Debug\King.Framework.Interfaces.csprojResolveAssemblyReference.cache
+=======
+>>>>>>> 2b573943baeab4164300c7a14b5c182ddccdbe59

@@ -2,4 +2,7 @@ D:\开发测试\King.Framework\King.Framework\King.Framework.WebTools\bin\Debug\
 D:\开发测试\King.Framework\King.Framework\King.Framework.WebTools\bin\Debug\King.Framework.WebTools.pdb
 D:\开发测试\King.Framework\King.Framework\King.Framework.WebTools\obj\Debug\King.Framework.WebTools.dll
 D:\开发测试\King.Framework\King.Framework\King.Framework.WebTools\obj\Debug\King.Framework.WebTools.pdb
+<<<<<<< HEAD
 D:\开发测试\King.Framework\King.Framework\King.Framework.WebTools\obj\Debug\King.Framework.WebTools.csprojResolveAssemblyReference.cache
+=======
+>>>>>>> 2b573943baeab4164300c7a14b5c182ddccdbe59

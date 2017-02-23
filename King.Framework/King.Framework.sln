@@ -35,10 +35,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "King.Framework.WebTools", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "King.Framework.EntityLibrary", "King.Framework.EntityLibrary\King.Framework.EntityLibrary.csproj", "{5E9146F4-D1FB-4F39-8BEC-F3CFA0C7DC08}"
 EndProject
+<<<<<<< HEAD
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "King.Sys_Common.Models", "King.Sys_Common.Models\King.Sys_Common.Models.csproj", "{EC157525-7C67-4136-B674-B29FB4263D28}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "King.Sys_Common.BLL", "King.Sys_Common.BLL\King.Sys_Common.BLL.csproj", "{BBEA1B7A-19D9-483C-92E0-57CB813544EB}"
 EndProject
+=======
+>>>>>>> 2b573943baeab4164300c7a14b5c182ddccdbe59
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -109,6 +112,7 @@ Global
 		{5E9146F4-D1FB-4F39-8BEC-F3CFA0C7DC08}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E9146F4-D1FB-4F39-8BEC-F3CFA0C7DC08}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E9146F4-D1FB-4F39-8BEC-F3CFA0C7DC08}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< HEAD
 		{EC157525-7C67-4136-B674-B29FB4263D28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{EC157525-7C67-4136-B674-B29FB4263D28}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC157525-7C67-4136-B674-B29FB4263D28}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -117,6 +121,8 @@ Global
 		{BBEA1B7A-19D9-483C-92E0-57CB813544EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BBEA1B7A-19D9-483C-92E0-57CB813544EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BBEA1B7A-19D9-483C-92E0-57CB813544EB}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+>>>>>>> 2b573943baeab4164300c7a14b5c182ddccdbe59
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
