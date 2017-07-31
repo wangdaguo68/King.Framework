@@ -56,3 +56,37 @@ D:\开发测试\King.Framework\King.Framework\King.Framework.Mvc\bin\Debug\zh-Ha
 D:\开发测试\King.Framework\King.Framework\King.Framework.Mvc\bin\Debug\zh-Hans\System.Web.WebPages.Deployment.resources.dll
 D:\开发测试\King.Framework\King.Framework\King.Framework.Mvc\obj\Debug\King.Framework.Mvc.dll
 D:\开发测试\King.Framework\King.Framework\King.Framework.Mvc\obj\Debug\King.Framework.Mvc.pdb
+D:\open source\King.Framework\King.Framework\King.Framework.Mvc\bin\Debug\King.Framework.Mvc.dll.config
+D:\open source\King.Framework\King.Framework\King.Framework.Mvc\bin\Debug\King.Framework.Mvc.dll
+D:\open source\King.Framework\King.Framework\King.Framework.Mvc\bin\Debug\King.Framework.Mvc.pdb
+D:\open source\King.Framework\King.Framework\King.Framework.Mvc\bin\Debug\Antlr3.Runtime.dll
+D:\open source\King.Framework\King.Framework\King.Framework.Mvc\bin\Debug\King.Framework.Common.dll
+D:\open source\King.Framework\King.Framework\King.Framework.Mvc\bin\Debug\King.Framework.EntityLibrary.dll
+D:\open source\King.Framework\King.Framework\King.Framework.Mvc\bin\Debug\King.Framework.Interfaces.dll
+D:\open source\King.Framework\King.Framework\King.Framework.Mvc\bin\Debug\King.Framework.Linq.dll
+D:\open source\King.Framework\King.Framework\King.Framework.Mvc\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\open source\King.Framework\King.Framework\King.Framework.Mvc\bin\Debug\Newtonsoft.Json.dll
+D:\open source\King.Framework\King.Framework\King.Framework.Mvc\bin\Debug\System.Web.Optimization.dll
+D:\open source\King.Framework\King.Framework\King.Framework.Mvc\bin\Debug\WebGrease.dll
+D:\open source\King.Framework\King.Framework\King.Framework.Mvc\bin\Debug\King.Framework.LiteQueryDef.dll
+D:\open source\King.Framework\King.Framework\King.Framework.Mvc\bin\Debug\King.Framework.Ioc.dll
+D:\open source\King.Framework\King.Framework\King.Framework.Mvc\bin\Debug\King.Framework.DAL.dll
+D:\open source\King.Framework\King.Framework\King.Framework.Mvc\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\open source\King.Framework\King.Framework\King.Framework.Mvc\bin\Debug\Microsoft.Practices.Unity.dll
+D:\open source\King.Framework\King.Framework\King.Framework.Mvc\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\open source\King.Framework\King.Framework\King.Framework.Mvc\bin\Debug\King.Framework.Common.pdb
+D:\open source\King.Framework\King.Framework\King.Framework.Mvc\bin\Debug\King.Framework.EntityLibrary.pdb
+D:\open source\King.Framework\King.Framework\King.Framework.Mvc\bin\Debug\King.Framework.Interfaces.pdb
+D:\open source\King.Framework\King.Framework\King.Framework.Mvc\bin\Debug\King.Framework.Linq.pdb
+D:\open source\King.Framework\King.Framework\King.Framework.Mvc\bin\Debug\Antlr3.Runtime.pdb
+D:\open source\King.Framework\King.Framework\King.Framework.Mvc\bin\Debug\Newtonsoft.Json.xml
+D:\open source\King.Framework\King.Framework\King.Framework.Mvc\bin\Debug\System.Web.Optimization.xml
+D:\open source\King.Framework\King.Framework\King.Framework.Mvc\bin\Debug\King.Framework.LiteQueryDef.pdb
+D:\open source\King.Framework\King.Framework\King.Framework.Mvc\bin\Debug\King.Framework.Ioc.pdb
+D:\open source\King.Framework\King.Framework\King.Framework.Mvc\bin\Debug\King.Framework.DAL.pdb
+D:\open source\King.Framework\King.Framework\King.Framework.Mvc\bin\Debug\Microsoft.Practices.Unity.xml
+D:\open source\King.Framework\King.Framework\King.Framework.Mvc\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\open source\King.Framework\King.Framework\King.Framework.Mvc\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\open source\King.Framework\King.Framework\King.Framework.Mvc\obj\Debug\King.Framework.Mvc.csprojResolveAssemblyReference.cache
+D:\open source\King.Framework\King.Framework\King.Framework.Mvc\obj\Debug\King.Framework.Mvc.dll
+D:\open source\King.Framework\King.Framework\King.Framework.Mvc\obj\Debug\King.Framework.Mvc.pdb

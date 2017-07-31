@@ -5,3 +5,10 @@ D:\开发测试\King.Framework\King.Framework\King.Framework.Plugin\bin\Debug\Ki
 D:\开发测试\King.Framework\King.Framework\King.Framework.Plugin\obj\Debug\King.Framework.Plugin.csprojResolveAssemblyReference.cache
 D:\开发测试\King.Framework\King.Framework\King.Framework.Plugin\obj\Debug\King.Framework.Plugin.dll
 D:\开发测试\King.Framework\King.Framework\King.Framework.Plugin\obj\Debug\King.Framework.Plugin.pdb
+D:\open source\King.Framework\King.Framework\King.Framework.Plugin\bin\Debug\King.Framework.Plugin.dll
+D:\open source\King.Framework\King.Framework\King.Framework.Plugin\bin\Debug\King.Framework.Plugin.pdb
+D:\open source\King.Framework\King.Framework\King.Framework.Plugin\bin\Debug\King.Framework.Interfaces.dll
+D:\open source\King.Framework\King.Framework\King.Framework.Plugin\bin\Debug\King.Framework.Interfaces.pdb
+D:\open source\King.Framework\King.Framework\King.Framework.Plugin\obj\Debug\King.Framework.Plugin.dll
+D:\open source\King.Framework\King.Framework\King.Framework.Plugin\obj\Debug\King.Framework.Plugin.pdb
+D:\open source\King.Framework\King.Framework\King.Framework.Plugin\obj\Debug\King.Framework.Plugin.csprojResolveAssemblyReference.cache

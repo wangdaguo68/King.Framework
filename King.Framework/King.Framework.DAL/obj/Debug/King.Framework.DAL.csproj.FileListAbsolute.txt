@@ -1,9 +1,5 @@
-D:\开发测试\King.Framework\King.Framework\King.Framework.DAL\bin\Debug\King.Framework.DAL.dll
-D:\开发测试\King.Framework\King.Framework\King.Framework.DAL\bin\Debug\King.Framework.DAL.pdb
-D:\开发测试\King.Framework\King.Framework\King.Framework.DAL\bin\Debug\Oracle.ManagedDataAccess.dll
-D:\开发测试\King.Framework\King.Framework\King.Framework.DAL\obj\Debug\King.Framework.DAL.dll
-D:\开发测试\King.Framework\King.Framework\King.Framework.DAL\obj\Debug\King.Framework.DAL.pdb
-<<<<<<< HEAD
-D:\开发测试\King.Framework\King.Framework\King.Framework.DAL\obj\Debug\King.Framework.DAL.csprojResolveAssemblyReference.cache
-=======
->>>>>>> 2b573943baeab4164300c7a14b5c182ddccdbe59
+D:\open source\King.Framework\King.Framework\King.Framework.DAL\bin\Debug\King.Framework.DAL.dll
+D:\open source\King.Framework\King.Framework\King.Framework.DAL\bin\Debug\King.Framework.DAL.pdb
+D:\open source\King.Framework\King.Framework\King.Framework.DAL\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\open source\King.Framework\King.Framework\King.Framework.DAL\obj\Debug\King.Framework.DAL.dll
+D:\open source\King.Framework\King.Framework\King.Framework.DAL\obj\Debug\King.Framework.DAL.pdb

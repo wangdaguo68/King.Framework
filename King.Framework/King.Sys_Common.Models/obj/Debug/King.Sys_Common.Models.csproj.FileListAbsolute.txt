@@ -21,3 +21,26 @@ D:\开发测试\King.Framework\King.Framework\King.Sys_Common.Models\bin\Debug\M
 D:\开发测试\King.Framework\King.Framework\King.Sys_Common.Models\obj\Debug\King.Sys_Common.Models.csprojResolveAssemblyReference.cache
 D:\开发测试\King.Framework\King.Framework\King.Sys_Common.Models\obj\Debug\King.Sys_Common.Models.dll
 D:\开发测试\King.Framework\King.Framework\King.Sys_Common.Models\obj\Debug\King.Sys_Common.Models.pdb
+D:\open source\King.Framework\King.Framework\King.Sys_Common.Models\bin\Debug\King.Sys_Common.Models.dll
+D:\open source\King.Framework\King.Framework\King.Sys_Common.Models\bin\Debug\King.Sys_Common.Models.pdb
+D:\open source\King.Framework\King.Framework\King.Sys_Common.Models\bin\Debug\King.Framework.EntityLibrary.dll
+D:\open source\King.Framework\King.Framework\King.Sys_Common.Models\bin\Debug\King.Framework.Linq.dll
+D:\open source\King.Framework\King.Framework\King.Sys_Common.Models\bin\Debug\King.Framework.DAL.dll
+D:\open source\King.Framework\King.Framework\King.Sys_Common.Models\bin\Debug\King.Framework.Interfaces.dll
+D:\open source\King.Framework\King.Framework\King.Sys_Common.Models\bin\Debug\King.Framework.Ioc.dll
+D:\open source\King.Framework\King.Framework\King.Sys_Common.Models\bin\Debug\King.Framework.LiteQueryDef.dll
+D:\open source\King.Framework\King.Framework\King.Sys_Common.Models\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\open source\King.Framework\King.Framework\King.Sys_Common.Models\bin\Debug\Microsoft.Practices.Unity.dll
+D:\open source\King.Framework\King.Framework\King.Sys_Common.Models\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\open source\King.Framework\King.Framework\King.Sys_Common.Models\bin\Debug\King.Framework.EntityLibrary.pdb
+D:\open source\King.Framework\King.Framework\King.Sys_Common.Models\bin\Debug\King.Framework.Linq.pdb
+D:\open source\King.Framework\King.Framework\King.Sys_Common.Models\bin\Debug\King.Framework.DAL.pdb
+D:\open source\King.Framework\King.Framework\King.Sys_Common.Models\bin\Debug\King.Framework.Interfaces.pdb
+D:\open source\King.Framework\King.Framework\King.Sys_Common.Models\bin\Debug\King.Framework.Ioc.pdb
+D:\open source\King.Framework\King.Framework\King.Sys_Common.Models\bin\Debug\King.Framework.LiteQueryDef.pdb
+D:\open source\King.Framework\King.Framework\King.Sys_Common.Models\bin\Debug\Microsoft.Practices.Unity.xml
+D:\open source\King.Framework\King.Framework\King.Sys_Common.Models\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\open source\King.Framework\King.Framework\King.Sys_Common.Models\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\open source\King.Framework\King.Framework\King.Sys_Common.Models\obj\Debug\King.Sys_Common.Models.csprojResolveAssemblyReference.cache
+D:\open source\King.Framework\King.Framework\King.Sys_Common.Models\obj\Debug\King.Sys_Common.Models.dll
+D:\open source\King.Framework\King.Framework\King.Sys_Common.Models\obj\Debug\King.Sys_Common.Models.pdb

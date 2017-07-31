@@ -8,3 +8,13 @@ D:\开发测试\King.Framework\King.Framework\King.Framework.Linq\bin\Debug\King
 D:\开发测试\King.Framework\King.Framework\King.Framework.Linq\obj\Debug\King.Framework.Linq.csprojResolveAssemblyReference.cache
 D:\开发测试\King.Framework\King.Framework\King.Framework.Linq\obj\Debug\King.Framework.Linq.dll
 D:\开发测试\King.Framework\King.Framework\King.Framework.Linq\obj\Debug\King.Framework.Linq.pdb
+D:\open source\King.Framework\King.Framework\King.Framework.Linq\bin\Debug\King.Framework.Linq.dll
+D:\open source\King.Framework\King.Framework\King.Framework.Linq\bin\Debug\King.Framework.Linq.pdb
+D:\open source\King.Framework\King.Framework\King.Framework.Linq\bin\Debug\King.Framework.DAL.dll
+D:\open source\King.Framework\King.Framework\King.Framework.Linq\bin\Debug\King.Framework.LiteQueryDef.dll
+D:\open source\King.Framework\King.Framework\King.Framework.Linq\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\open source\King.Framework\King.Framework\King.Framework.Linq\bin\Debug\King.Framework.DAL.pdb
+D:\open source\King.Framework\King.Framework\King.Framework.Linq\bin\Debug\King.Framework.LiteQueryDef.pdb
+D:\open source\King.Framework\King.Framework\King.Framework.Linq\obj\Debug\King.Framework.Linq.dll
+D:\open source\King.Framework\King.Framework\King.Framework.Linq\obj\Debug\King.Framework.Linq.pdb
+D:\open source\King.Framework\King.Framework\King.Framework.Linq\obj\Debug\King.Framework.Linq.csprojResolveAssemblyReference.cache

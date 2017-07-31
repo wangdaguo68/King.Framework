@@ -14,3 +14,18 @@ D:\开发测试\King.Framework\King.Framework\King.Framework.Ioc\obj\Debug\King.
 D:\开发测试\King.Framework\King.Framework\King.Framework.Ioc\bin\Debug\System.Web.Razor.dll
 D:\开发测试\King.Framework\King.Framework\King.Framework.Ioc\bin\Debug\System.Web.Razor.xml
 D:\开发测试\King.Framework\King.Framework\King.Framework.Ioc\obj\Debug\King.Framework.Ioc.csprojResolveAssemblyReference.cache
+D:\open source\King.Framework\King.Framework\King.Framework.Ioc\bin\Debug\King.Framework.Ioc.dll
+D:\open source\King.Framework\King.Framework\King.Framework.Ioc\bin\Debug\King.Framework.Ioc.pdb
+D:\open source\King.Framework\King.Framework\King.Framework.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\open source\King.Framework\King.Framework\King.Framework.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\open source\King.Framework\King.Framework\King.Framework.Ioc\bin\Debug\Microsoft.Practices.Unity.dll
+D:\open source\King.Framework\King.Framework\King.Framework.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\open source\King.Framework\King.Framework\King.Framework.Ioc\bin\Debug\System.Web.Razor.dll
+D:\open source\King.Framework\King.Framework\King.Framework.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\open source\King.Framework\King.Framework\King.Framework.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\open source\King.Framework\King.Framework\King.Framework.Ioc\bin\Debug\Microsoft.Practices.Unity.xml
+D:\open source\King.Framework\King.Framework\King.Framework.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\open source\King.Framework\King.Framework\King.Framework.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\open source\King.Framework\King.Framework\King.Framework.Ioc\bin\Debug\System.Web.Razor.xml
+D:\open source\King.Framework\King.Framework\King.Framework.Ioc\obj\Debug\King.Framework.Ioc.dll
+D:\open source\King.Framework\King.Framework\King.Framework.Ioc\obj\Debug\King.Framework.Ioc.pdb

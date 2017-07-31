@@ -1,8 +1,4 @@
-D:\开发测试\King.Framework\King.Framework\King.Framework.LiteQueryDef\bin\Debug\King.Framework.LiteQueryDef.dll
-D:\开发测试\King.Framework\King.Framework\King.Framework.LiteQueryDef\bin\Debug\King.Framework.LiteQueryDef.pdb
-D:\开发测试\King.Framework\King.Framework\King.Framework.LiteQueryDef\obj\Debug\King.Framework.LiteQueryDef.dll
-D:\开发测试\King.Framework\King.Framework\King.Framework.LiteQueryDef\obj\Debug\King.Framework.LiteQueryDef.pdb
-<<<<<<< HEAD
-D:\开发测试\King.Framework\King.Framework\King.Framework.LiteQueryDef\obj\Debug\King.Framework.LiteQueryDef.csprojResolveAssemblyReference.cache
-=======
->>>>>>> 2b573943baeab4164300c7a14b5c182ddccdbe59
+D:\open source\King.Framework\King.Framework\King.Framework.LiteQueryDef\bin\Debug\King.Framework.LiteQueryDef.dll
+D:\open source\King.Framework\King.Framework\King.Framework.LiteQueryDef\bin\Debug\King.Framework.LiteQueryDef.pdb
+D:\open source\King.Framework\King.Framework\King.Framework.LiteQueryDef\obj\Debug\King.Framework.LiteQueryDef.dll
+D:\open source\King.Framework\King.Framework\King.Framework.LiteQueryDef\obj\Debug\King.Framework.LiteQueryDef.pdb

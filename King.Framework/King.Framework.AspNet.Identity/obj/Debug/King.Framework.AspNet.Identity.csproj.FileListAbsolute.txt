@@ -33,3 +33,35 @@ D:\开发测试\King.Framework\King.Framework\King.Framework.AspNet.Identity\bin
 D:\开发测试\King.Framework\King.Framework\King.Framework.AspNet.Identity\bin\Debug\zh-Hans\System.Net.Http.Formatting.resources.dll
 D:\开发测试\King.Framework\King.Framework\King.Framework.AspNet.Identity\obj\Debug\Drision.Framework.AspNet.Identity.dll
 D:\开发测试\King.Framework\King.Framework\King.Framework.AspNet.Identity\obj\Debug\Drision.Framework.AspNet.Identity.pdb
+D:\open source\King.Framework\King.Framework\King.Framework.AspNet.Identity\bin\Debug\Drision.Framework.AspNet.Identity.dll
+D:\open source\King.Framework\King.Framework\King.Framework.AspNet.Identity\bin\Debug\Drision.Framework.AspNet.Identity.pdb
+D:\open source\King.Framework\King.Framework\King.Framework.AspNet.Identity\bin\Debug\King.Framework.Common.dll
+D:\open source\King.Framework\King.Framework\King.Framework.AspNet.Identity\bin\Debug\King.Framework.DAL.dll
+D:\open source\King.Framework\King.Framework\King.Framework.AspNet.Identity\bin\Debug\King.Framework.EntityLibrary.dll
+D:\open source\King.Framework\King.Framework\King.Framework.AspNet.Identity\bin\Debug\King.Framework.Interfaces.dll
+D:\open source\King.Framework\King.Framework\King.Framework.AspNet.Identity\bin\Debug\King.Framework.Linq.dll
+D:\open source\King.Framework\King.Framework\King.Framework.AspNet.Identity\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\open source\King.Framework\King.Framework\King.Framework.AspNet.Identity\bin\Debug\Microsoft.Owin.dll
+D:\open source\King.Framework\King.Framework\King.Framework.AspNet.Identity\bin\Debug\Newtonsoft.Json.dll
+D:\open source\King.Framework\King.Framework\King.Framework.AspNet.Identity\bin\Debug\Owin.dll
+D:\open source\King.Framework\King.Framework\King.Framework.AspNet.Identity\bin\Debug\King.Framework.LiteQueryDef.dll
+D:\open source\King.Framework\King.Framework\King.Framework.AspNet.Identity\bin\Debug\King.Framework.Ioc.dll
+D:\open source\King.Framework\King.Framework\King.Framework.AspNet.Identity\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\open source\King.Framework\King.Framework\King.Framework.AspNet.Identity\bin\Debug\Microsoft.Practices.Unity.dll
+D:\open source\King.Framework\King.Framework\King.Framework.AspNet.Identity\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\open source\King.Framework\King.Framework\King.Framework.AspNet.Identity\bin\Debug\King.Framework.Common.pdb
+D:\open source\King.Framework\King.Framework\King.Framework.AspNet.Identity\bin\Debug\King.Framework.DAL.pdb
+D:\open source\King.Framework\King.Framework\King.Framework.AspNet.Identity\bin\Debug\King.Framework.EntityLibrary.pdb
+D:\open source\King.Framework\King.Framework\King.Framework.AspNet.Identity\bin\Debug\King.Framework.Interfaces.pdb
+D:\open source\King.Framework\King.Framework\King.Framework.AspNet.Identity\bin\Debug\King.Framework.Linq.pdb
+D:\open source\King.Framework\King.Framework\King.Framework.AspNet.Identity\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\open source\King.Framework\King.Framework\King.Framework.AspNet.Identity\bin\Debug\Microsoft.Owin.xml
+D:\open source\King.Framework\King.Framework\King.Framework.AspNet.Identity\bin\Debug\Newtonsoft.Json.xml
+D:\open source\King.Framework\King.Framework\King.Framework.AspNet.Identity\bin\Debug\King.Framework.LiteQueryDef.pdb
+D:\open source\King.Framework\King.Framework\King.Framework.AspNet.Identity\bin\Debug\King.Framework.Ioc.pdb
+D:\open source\King.Framework\King.Framework\King.Framework.AspNet.Identity\bin\Debug\Microsoft.Practices.Unity.xml
+D:\open source\King.Framework\King.Framework\King.Framework.AspNet.Identity\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\open source\King.Framework\King.Framework\King.Framework.AspNet.Identity\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\open source\King.Framework\King.Framework\King.Framework.AspNet.Identity\obj\Debug\King.Framework.AspNet.Identity.csprojResolveAssemblyReference.cache
+D:\open source\King.Framework\King.Framework\King.Framework.AspNet.Identity\obj\Debug\Drision.Framework.AspNet.Identity.dll
+D:\open source\King.Framework\King.Framework\King.Framework.AspNet.Identity\obj\Debug\Drision.Framework.AspNet.Identity.pdb
