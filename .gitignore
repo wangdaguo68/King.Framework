@@ -1,3 +1,5 @@
 /.vs/
 /bin/
 /King.Framework/.vs
+/King.Framework/King.Framework.AspNet.Identity/bin
+/bin/*
