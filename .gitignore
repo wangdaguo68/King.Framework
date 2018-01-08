@@ -1,9 +1,5 @@
-/.vs/
-/bin/
 /King.Framework/.vs
 /King.Framework/King.Framework.AspNet.Identity/bin
-/bin/*
-bin
 /King.Framework/King.Framework.Common/bin
 /King.Framework/King.Framework.DAL/bin
 /King.Framework/King.Framework.EntityLibrary/bin
